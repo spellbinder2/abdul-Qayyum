@@ -1,0 +1,15 @@
+/ (root)
+├── _config.yml           
+├── index.md              
+├── about.md              
+├── projects/             
+│   └── emerging-trade.md 
+├── assets/               
+│   ├── excel-icon.png    
+│   ├── powerbi-icon.png  
+│   ├── screenshots/      
+│   │   ├── pivot-table.png
+│   │   └── powerbi-overview.png
+│   └── resume.pdf        
+└── README.md             
+Add index.md
